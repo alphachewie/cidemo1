@@ -12,6 +12,7 @@ To be able to handle a completely loosely coupled microservice environment servi
 Coming soon...
 
 '''
+
 * Summary of set up
 * Configuration
 * Dependencies
