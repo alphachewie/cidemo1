@@ -1,0 +1,11 @@
+generated
+target
+work
+.classpath
+.idea
+.project
+.settings
+.DS_Store
+*.pem
+*.data
+*.iml
